@@ -35,13 +35,11 @@ jobs:
           cp -r grafico _site/
 
       - name: Commit y push de los cambios
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/joseluisgch/inversionpublica_2025.git
           git add grafico/chart.html
-          git commit -m "Actualizar gráfico generado automáticamente" || echo "Sin cambios para confirmar"
-          git push
-
+          git commit -m "Actualizar gráfico generado automáticamente" || echo "No hay cambios que hacer commit"
+          git push https://github.com/joseluisgch/inversionpublica_2025.git HEAD:main
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
