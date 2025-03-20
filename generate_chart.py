@@ -8,7 +8,7 @@ import pytz
 
 # Ruta donde se guardará el gráfico y los datos
 OUTPUT_FOLDER = "grafico" # se guarda los graficos
-DATA_FILE = "data\inversiones_data.json"  # Se actualizará desde GitHub Actions
+DATA_FILE = os.path.join("data", "inversiones_data.json") # Se actualizará desde GitHub Actions
 
 # Asegurar que el directorio de salida existe
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
