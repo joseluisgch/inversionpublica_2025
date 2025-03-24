@@ -28,12 +28,6 @@ jobs:
         run: |
           python generate_chart.py
 
-      - name: Mover `index.html` a la raíz del sitio
-        run: |
-          mkdir -p _site
-          cp templates/index.html _site/index.html
-          cp -r grafico _site/
-
       - name: Commit y push de los cambios
         run: |
           git config --global user.name "github-actions[bot]"
