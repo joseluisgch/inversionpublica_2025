@@ -7,7 +7,7 @@ from datetime import datetime
 import pytz
 
 # Ruta donde se guardará el gráfico y los datos
-OUTPUT_FOLDER = "grafico" # se guarda los graficos
+OUTPUT_FOLDER = "docs" # se guarda los graficos en carpeta docs
 DATA_FILE = os.path.join("data", "inversiones_data.json") # Se actualizará desde GitHub Actions
 
 # Asegurar que el directorio de salida existe
@@ -56,7 +56,7 @@ if 'features' in data and data['features']:
     )
 
     # Guardar el gráfico como HTML
-    chart_path = os.path.join(OUTPUT_FOLDER, "chart.html")
+    chart_path = os.path.join(OUTPUT_FOLDER, "index.html")
     pio.write_html(fig, chart_path)
 
     print(f"Gráfico guardado en: {chart_path}")
