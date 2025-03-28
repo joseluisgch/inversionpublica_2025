@@ -30,7 +30,7 @@ jobs:
       run: python generate_chart.py
 
     - name: Publicar en GitHub Pages
-      uses: actions/upload-pages-artifact@v1
+      uses: actions/upload-pages-artifact@v1.1.0
       with:
         path: grafico
 
