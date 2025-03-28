@@ -1,5 +1,6 @@
 import requests
 import json
+import os
 import time
 import logging
 from datetime import datetime
@@ -11,11 +12,15 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 
-# Archivo donde se guardarán los datos
-DATA_FILE = 'data\inversiones_data.json' # ruta para GitHub: 'data/inversiones_data.json'
+# Definir carpeta y archivo de salida
+DATA_FOLDER = "data"
+DATA_FILE = os.path.join(DATA_FOLDER, "inversiones_data.json")
+
+# Asegurar que la carpeta "data" exista
+os.makedirs(DATA_FOLDER, exist_ok=True)
 
 def fetch_data():
-    """Obtiene los datos del API y los guarda en un archivo JSON"""
+    """Obtiene los datos del API de ArcGIS y los guarda en un archivo JSON"""
     base_url = 'https://pportalgis.vivienda.gob.pe/pfdserver/rest/services/OGEI/Mapa_Inversiones_MEF/FeatureServer/2/query'
     
     params = {
@@ -37,10 +42,8 @@ def fetch_data():
             params['resultRecordCount'] = record_count
             
             response = requests.get(base_url, params=params, timeout=30)
-            if response.status_code != 200:
-                logging.error(f"Error HTTP: {response.status_code}")
-                return None
-                
+            response.raise_for_status()  # Genera un error si la respuesta no es 200
+            
             data = response.json()
             if 'error' in data:
                 logging.error(f"Error API: {data['error']}")
@@ -54,7 +57,7 @@ def fetch_data():
             else:
                 offset += record_count
                 logging.info(f"Obtenidos {len(all_features)} registros hasta ahora...")
-                time.sleep(0.5)
+                time.sleep(0.2)  # Reducido para mejorar rendimiento
         
         data['features'] = all_features
 
@@ -64,6 +67,9 @@ def fetch_data():
         logging.info(f"Datos actualizados correctamente. Total de registros: {len(all_features)}")
         return data
         
+    except requests.exceptions.RequestException as e:
+        logging.error(f"Error de conexión: {str(e)}")
+        return None
     except Exception as e:
         logging.error(f"Error al obtener los datos: {str(e)}")
         return None
