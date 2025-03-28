@@ -29,15 +29,34 @@ jobs:
     - name: Generar el gráfico
       run: python generate_chart.py
 
-    - name: Publicar en GitHub Pages
-      uses: actions/upload-pages-artifact@v3.0.1
+    - name: Subir los datos y gráficos como artefactos
+      uses: actions/upload-artifact@v4
       with:
-        path: grafico
+        name: datos-y-graficos
+        path: |
+          data/inversiones_data.json
+          docs/index.html
+
+    - name: Commit y push de los cambios
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+        git add data/inversiones_data.json docs/index.html
+        git commit -m "Actualización automática de datos y gráfico"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   deploy:
     needs: build
     runs-on: ubuntu-latest
 
     steps:
-    - name: Desplegar en GitHub Pages
-      uses: actions/deploy-pages@v1
+    - name: Descargar artefactos
+      uses: actions/download-artifact@v4
+      with:
+        name: datos-y-graficos
+        path: docs
+
+    - name: Publicar en GitHub Pages
+      uses: actions/deploy-pages@v2
