@@ -22,6 +22,1056 @@
   "features": [
     {
       "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 2191549.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 151082.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 75000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 84000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 2400.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 2503.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 1200.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 132.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 100.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 39085.05
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 500.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 433.36
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 1200.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 100.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 433.36
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 24500.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 30000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 28800.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 9013.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 14699.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 375091.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 61000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 74084.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 311798.68
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 433.36
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 500.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 13028.38
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 200.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 433.36
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 433.36
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 61191.71
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 2856.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 5000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 109970.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 400000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 14581.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 14400.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 50000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 11526.78
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 216.68
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 100.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 500.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 433.36
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 200.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 15264.19
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 57849.33
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 216.68
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 59282.13
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 200.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 8264.19
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 4500.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 32792.57
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 1440.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 2109.91
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 9796.7
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 109500.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 9764.19
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 6000.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 2816.84
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 20274.34
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 5579.75
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 10675.9
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 200.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 7600.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 2476.8
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 292.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 350.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 433.36
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 13028.38
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 216.68
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 1300.08
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 352197.14
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 26076.4
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 132.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 100.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 433.36
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 200.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 200.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 10273.33
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 1579.26
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 3086.88
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 33500.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 6000.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 752500.38
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 100.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 600.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 7000.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 6717.08
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 200.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 24528.38
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 9275.58
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 4000.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 1040.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 960.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 17712.73
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 100.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 600.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 56000.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 3357.03
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 40977.23
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 2931.78
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 200.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 400.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 12047.5
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 39800.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 85633.23
+      }
+    },
+    {
+      "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 0.0,
         "monto_devengado": 433.36
@@ -1479,13 +2529,6 @@
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 6060.0,
         "monto_devengado": 0.0
       }
@@ -1893,13 +2936,6 @@
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 5723.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 1200.0,
         "monto_devengado": 0.0
       }
     },
@@ -2410,6 +3446,349 @@
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 311100.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 492.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 6564.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 117814.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 23800.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 33930.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 1965.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 40000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 1075.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 50.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 25000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 6000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 30182.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 60000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 300.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 1500.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 18000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 500.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 44539.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 10000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 7800.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 2000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 6852.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 12000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 66000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 21177.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 62620.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 6002.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 1720.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 1200.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 7000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 400.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 16000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 16720.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 55291.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 2876.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 12515.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 300.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 166281.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 13862.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 12980.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 10000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 96040.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 29769.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 42559.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 1200.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 1000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 0.0,
         "monto_devengado": 11674.19
       }
@@ -2753,13 +4132,6 @@
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 1000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 48241.0,
         "monto_devengado": 0.0
       }
@@ -2831,349 +4203,6 @@
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 15600.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 311100.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 492.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 6564.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 117814.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 23800.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 33930.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 1965.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 40000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 1075.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 50.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 25000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 6000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 30182.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 60000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 300.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 1500.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 18000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 500.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 44539.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 10000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 7800.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 2000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 6852.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 12000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 66000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 21177.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 62620.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 6002.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 1720.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 1200.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 7000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 400.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 16000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 16720.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 55291.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 2876.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 12515.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 300.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 166281.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 13862.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 12980.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 10000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 96040.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 29769.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 42559.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 1200.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 300.0,
         "monto_devengado": 0.0
       }
     },
@@ -4657,13 +5686,6 @@
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 26004.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 31656.0,
         "monto_devengado": 0.0
       }
@@ -5280,6 +6302,13 @@
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 26004.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 12180.0,
         "monto_devengado": 0.0
       }
@@ -5386,6 +6415,13 @@
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 1283.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
         "monto_devengado": 0.0
       }
     },
@@ -5714,13 +6750,6 @@
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 250.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 1.0,
         "monto_devengado": 0.0
       }
@@ -5882,14 +6911,14 @@
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
+        "monto_pim": 16200.0,
         "monto_devengado": 0.0
       }
     },
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 16200.0,
+        "monto_pim": 250.0,
         "monto_devengado": 0.0
       }
     },
@@ -6085,13 +7114,6 @@
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 850.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 2400.0,
         "monto_devengado": 0.0
       }
@@ -6196,13 +7218,6 @@
     },
     {
       "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 4005.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
         "tipo_act_proy_nombre": "PROYECTO",
         "monto_pim": 42800.0,
         "monto_devengado": 0.0
@@ -6240,6 +7255,13 @@
       "attributes": {
         "tipo_act_proy_nombre": "PROYECTO",
         "monto_pim": 48087.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
         "monto_devengado": 0.0
       }
     },
@@ -6316,6 +7338,13 @@
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 4005.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 3812.0,
         "monto_devengado": 0.0
       }
@@ -6358,13 +7387,6 @@
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 1000.0,
         "monto_devengado": 0.0
       }
@@ -6373,6 +7395,13 @@
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 27392.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 300.0,
         "monto_devengado": 0.0
       }
     },
@@ -6429,13 +7458,6 @@
       "attributes": {
         "tipo_act_proy_nombre": "PROYECTO",
         "monto_pim": 198153.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 2434.0,
         "monto_devengado": 0.0
       }
     },
@@ -6512,6 +7534,20 @@
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 2434.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 850.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 748.0,
         "monto_devengado": 0.0
       }
@@ -6534,6 +7570,13 @@
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 180000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 50000.0,
         "monto_devengado": 0.0
       }
     },
@@ -6596,13 +7639,6 @@
     {
       "attributes": {
         "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 50000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
         "monto_pim": 160494.0,
         "monto_devengado": 0.0
       }
@@ -6618,13 +7654,6 @@
       "attributes": {
         "tipo_act_proy_nombre": "PROYECTO",
         "monto_pim": 82500.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 25210.0,
         "monto_devengado": 0.0
       }
     },
@@ -6653,6 +7682,13 @@
       "attributes": {
         "tipo_act_proy_nombre": "PROYECTO",
         "monto_pim": 150822.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 25210.0,
         "monto_devengado": 0.0
       }
     },
@@ -6729,13 +7765,6 @@
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 3521.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 27171.0,
         "monto_devengado": 0.0
       }
@@ -6751,6 +7780,13 @@
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 58970.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 3521.0,
         "monto_devengado": 0.0
       }
     },
@@ -6854,15 +7890,15 @@
     },
     {
       "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 66500.0,
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 25733.0,
         "monto_devengado": 0.0
       }
     },
     {
       "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 500.0,
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 66500.0,
         "monto_devengado": 0.0
       }
     },
@@ -6918,14 +7954,14 @@
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 25733.0,
+        "monto_pim": 0.0,
         "monto_devengado": 0.0
       }
     },
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
+        "monto_pim": 500.0,
         "monto_devengado": 0.0
       }
     },
@@ -10348,15 +11384,15 @@
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": -28.0
+        "monto_pim": 500.0,
+        "monto_devengado": 0.0
       }
     },
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 500.0,
-        "monto_devengado": 0.0
+        "monto_pim": 0.0,
+        "monto_devengado": -28.0
       }
     },
     {
@@ -54987,6 +56023,13 @@
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 556.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 33011.0,
         "monto_devengado": 0.0
       }
@@ -55659,13 +56702,6 @@
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 1395.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 18259.0,
         "monto_devengado": 0.0
       }
@@ -56023,13 +57059,6 @@
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 960.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 227481.0,
         "monto_devengado": 0.0
       }
@@ -56115,6 +57144,13 @@
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 3000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 1395.0,
         "monto_devengado": 0.0
       }
     },
@@ -56730,7 +57766,14 @@
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
+        "monto_pim": 5100.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 2500.0,
         "monto_devengado": 0.0
       }
     },
@@ -56898,6 +57941,13 @@
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 270971.0,
         "monto_devengado": 0.0
       }
@@ -56956,13 +58006,6 @@
         "tipo_act_proy_nombre": "PROYECTO",
         "monto_pim": 3266465.0,
         "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 9264.19
       }
     },
     {
@@ -57026,6 +58069,13 @@
         "tipo_act_proy_nombre": "PROYECTO",
         "monto_pim": 0.0,
         "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 9264.19
       }
     },
     {
@@ -57178,6 +58228,13 @@
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 289500.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 0.0,
         "monto_devengado": 9264.19
       }
@@ -57222,13 +58279,6 @@
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 0.0,
         "monto_devengado": 9264.19
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 289500.0,
-        "monto_devengado": 0.0
       }
     },
     {
@@ -57291,6 +58341,13 @@
       "attributes": {
         "tipo_act_proy_nombre": "PROYECTO",
         "monto_pim": 50000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 17274.0,
         "monto_devengado": 0.0
       }
     },
@@ -57360,13 +58417,6 @@
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 17274.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 168000.0,
         "monto_devengado": 0.0
       }
@@ -57382,13 +58432,6 @@
       "attributes": {
         "tipo_act_proy_nombre": "PROYECTO",
         "monto_pim": 90644.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 1695.0,
         "monto_devengado": 0.0
       }
     },
@@ -57424,20 +58467,6 @@
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 334395.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 5100.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 2500.0,
         "monto_devengado": 0.0
       }
     },
@@ -57856,6 +58885,13 @@
     },
     {
       "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 1695.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
         "tipo_act_proy_nombre": "PROYECTO",
         "monto_pim": 1005274.0,
         "monto_devengado": 0.0
@@ -57908,13 +58944,6 @@
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 0.0,
         "monto_devengado": 216.68
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 81600.0,
-        "monto_devengado": 0.0
       }
     },
     {
@@ -57976,6 +59005,13 @@
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 81600.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 25000.0,
         "monto_devengado": 0.0
       }
@@ -57991,6 +59027,13 @@
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 2604.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 130000.0,
         "monto_devengado": 0.0
       }
     },
@@ -58143,13 +59186,6 @@
     },
     {
       "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 130000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 5000.0,
         "monto_devengado": 0.0
@@ -58269,6 +59305,13 @@
     },
     {
       "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
         "tipo_act_proy_nombre": "PROYECTO",
         "monto_pim": 203182.0,
         "monto_devengado": 0.0
@@ -58314,13 +59357,6 @@
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 0.0,
         "monto_devengado": 20340.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
       }
     },
     {
@@ -58542,13 +59578,6 @@
     },
     {
       "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
         "tipo_act_proy_nombre": "PROYECTO",
         "monto_pim": 0.0,
         "monto_devengado": 0.0
@@ -58664,6 +59693,13 @@
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 0.0,
         "monto_devengado": 83.27
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
       }
     },
     {
@@ -58956,6 +59992,20 @@
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 3600.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 80000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 0.0,
         "monto_devengado": 0.0
       }
@@ -59007,6 +60057,13 @@
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 0.0,
         "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 1218.71
       }
     },
     {
@@ -59069,20 +60126,6 @@
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 299911.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 3600.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 80000.0,
         "monto_devengado": 0.0
       }
     },
@@ -59217,13 +60260,6 @@
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 0.0,
         "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 1218.71
       }
     },
     {
@@ -61174,6 +62210,13 @@
     },
     {
       "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
         "tipo_act_proy_nombre": "PROYECTO",
         "monto_pim": 51616.0,
         "monto_devengado": 0.0
@@ -62206,13 +63249,6 @@
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 0.0,
         "monto_devengado": 750.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
       }
     },
     {
@@ -64396,13 +65432,6 @@
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 0.0,
-        "monto_devengado": 1100.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
         "monto_devengado": 0.0
       }
     },
@@ -64514,6 +65543,13 @@
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 31731.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 0.0,
         "monto_devengado": 0.0
       }
@@ -64619,13 +65655,6 @@
     {
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 576852.0,
         "monto_devengado": 0.0
       }
@@ -64677,6 +65706,13 @@
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 2503.0,
         "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 1100.0
       }
     },
     {
@@ -64774,6 +65810,13 @@
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
         "monto_devengado": 8028.38
       }
     },
@@ -64809,6 +65852,13 @@
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 30000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
         "monto_devengado": 0.0
       }
     },
@@ -64893,21 +65943,14 @@
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
         "monto_devengado": 1950.12
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
       }
     },
     {
@@ -65516,13 +66559,6 @@
       "attributes": {
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 70000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 31731.0,
         "monto_devengado": 0.0
       }
     },
@@ -109061,6 +110097,13 @@
     },
     {
       "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 999.5
+      }
+    },
+    {
+      "attributes": {
         "tipo_act_proy_nombre": "PROYECTO",
         "monto_pim": 0.0,
         "monto_devengado": 0.0
@@ -109113,13 +110156,6 @@
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 0.0,
         "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 999.5
       }
     },
     {
@@ -109386,6 +110422,2127 @@
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 0.0,
         "monto_devengado": 1118.85
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 2255776.57
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 99106.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 6092.57
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 16383.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 1503.86
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 87687.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 397022.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 1753079.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 1395.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 4800.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 1716.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 17941.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 1676.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 4325.3
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 731.03
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 8000.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 2412.41
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 2563.99
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 14528.38
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 9264.19
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 433.36
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 15535.14
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 960.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 204000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 74160.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 192341.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 906.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 6000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 40000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 46684.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 176.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 168114.24
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 8000.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 9264.19
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 4764.19
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 5428.8
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 433.36
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 21756.29
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 16740.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 6000.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 1920.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 27786.29
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 100.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 246800.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 20802.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 3796.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 100000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 800.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 26000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 104250.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 23820.95
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 216.68
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 9264.19
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 23792.57
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 4116.92
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 1200.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 960.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 297511.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 3410.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 140954.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 400.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 76989.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 1200.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 31224.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 240468.66
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 974.2
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 21628.2
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 10368.3
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 146000.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 1400.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 300.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 2383.48
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 30501.74
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 90720.97
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 700.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 7684.4
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 2917767.48
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 14528.38
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 9264.19
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 700.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 127698.66
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 654064.28
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 100.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 18528.38
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 1200.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 100.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 200.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 433.36
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 160.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 19563.07
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 601.14
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 13028.38
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 6200.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 100.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 120.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 216.68
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 94779.3
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 971632.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 87660.59
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 3466.88
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 3520.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 11856.76
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 10814.1
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 8028.38
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 27487.68
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 44585.14
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 650.04
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 60042.55
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 58643.52
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 10000.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 5748.5
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 8000.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 433.36
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 9264.19
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 1083.4
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 110.43
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 20977.71
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 1039.6
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 200.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 800.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 309697.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 481704.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 475.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 37968.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 90900.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 200.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 6000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 16740.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 34795.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 175.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 28000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 2604.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 75000.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 820.2
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 2970.9
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 1050.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 2420.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 200.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 132.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 400.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 433.36
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 70872.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "PROYECTO",
+        "monto_pim": 0.0,
+        "monto_devengado": 248266.66
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 2166.8
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 320.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 433.36
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 21092.09
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 73505.27
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 500.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 200.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 200.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 1600.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 48890.82
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 100285.92
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 100.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 200.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 0.0
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 1286.36
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 14415.68
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 866.72
+      }
+    },
+    {
+      "attributes": {
+        "tipo_act_proy_nombre": "ACTIVIDAD",
+        "monto_pim": 0.0,
+        "monto_devengado": 5407.05
       }
     },
     {
@@ -111073,3163 +114230,6 @@
         "tipo_act_proy_nombre": "ACTIVIDAD",
         "monto_pim": 0.0,
         "monto_devengado": 200.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 104250.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 974.2
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 2255776.57
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 99106.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 6092.57
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 16383.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 1503.86
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 87687.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 397022.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 1753079.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 1395.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 4800.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 1716.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 17941.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 1676.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 4325.3
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 731.03
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 8000.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 2412.41
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 2563.99
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 14528.38
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 9264.19
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 433.36
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 15535.14
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 960.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 204000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 74160.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 192341.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 906.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 6000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 40000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 46684.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 176.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 168114.24
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 8000.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 9264.19
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 4764.19
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 5428.8
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 433.36
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 21756.29
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 6000.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 1920.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 27786.29
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 100.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 246800.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 20802.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 3796.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 100000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 16740.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 800.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 26000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 23820.95
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 216.68
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 9264.19
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 23792.57
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 4116.92
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 960.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 297511.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 3410.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 140954.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 400.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 76989.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 1200.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 31224.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 1200.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 240468.66
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 21628.2
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 10368.3
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 146000.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 1400.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 300.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 2383.48
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 30501.74
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 90720.97
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 700.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 7684.4
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 2917767.48
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 14528.38
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 9264.19
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 700.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 127698.66
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 654064.28
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 100.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 18528.38
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 1200.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 100.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 200.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 433.36
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 160.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 19563.07
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 601.14
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 13028.38
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 6200.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 100.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 120.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 216.68
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 94779.3
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 971632.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 87660.59
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 3466.88
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 3520.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 11856.76
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 10814.1
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 8028.38
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 27487.68
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 44585.14
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 650.04
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 60042.55
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 58643.52
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 10000.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 5748.5
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 8000.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 433.36
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 9264.19
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 1083.4
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 110.43
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 20977.71
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 1039.6
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 309697.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 200.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 800.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 481704.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 475.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 37968.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 90900.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 200.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 6000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 16740.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 34795.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 175.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 28000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 2604.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 75000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 820.2
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 2970.9
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 1050.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 2420.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 200.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 132.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 400.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 433.36
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 70872.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 248266.66
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 2166.8
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 320.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 433.36
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 21092.09
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 73505.27
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 500.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 200.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 200.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 1600.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 48890.82
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 100285.92
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 100.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 200.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 1286.36
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 14415.68
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 866.72
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 5407.05
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 1050.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 2191549.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 151082.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 75000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 84000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 2400.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 2503.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 132.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 100.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 39085.05
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 500.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 433.36
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 1200.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 100.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 433.36
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 24500.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 30000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 28800.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 9013.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 14699.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 375091.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 61000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 74084.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 311798.68
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 433.36
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 500.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 13028.38
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 200.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 433.36
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 433.36
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 61191.71
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 2856.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 5000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 109970.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 400000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 14581.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 14400.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 50000.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 11526.78
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 216.68
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 100.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 500.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 433.36
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 200.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 15264.19
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 57849.33
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 216.68
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 59282.13
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 200.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 8264.19
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 4500.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 32792.57
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 1440.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 2109.91
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 9796.7
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 109500.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 9764.19
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 6000.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 2816.84
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 20274.34
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 5579.75
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 10675.9
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 200.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 7600.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 2476.8
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 292.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 350.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 433.36
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 13028.38
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 216.68
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 1300.08
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 352197.14
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 26076.4
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 132.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 100.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 433.36
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 200.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 200.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 10273.33
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 1579.26
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 3086.88
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 33500.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 6000.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 752500.38
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 100.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 600.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 7000.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 6717.08
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 200.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 24528.38
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 9275.58
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 4000.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 1040.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 960.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 17712.73
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 100.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 600.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 56000.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 3357.03
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 40977.23
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 2931.78
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 200.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 400.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "PROYECTO",
-        "monto_pim": 0.0,
-        "monto_devengado": 12047.5
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 0.0
-      }
-    },
-    {
-      "attributes": {
-        "tipo_act_proy_nombre": "ACTIVIDAD",
-        "monto_pim": 0.0,
-        "monto_devengado": 39800.0
       }
     }
   ]
