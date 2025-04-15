@@ -2,7 +2,7 @@ name: Update Chart
 
 on:
   schedule:
-    - cron: "0 */8 * * *"  # Ejecución cada 8 horas
+    - cron: "0 */8 * * *"  # Cada 8 horas
   workflow_dispatch:
 
 concurrency:
@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Clonar el repositorio
+    - name: Clonar repositorio
       uses: actions/checkout@v3
 
     - name: Configurar Python
@@ -29,19 +29,18 @@ jobs:
 
     - name: Instalar dependencias
       run: |
-        pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Descargar datos desde el servicio REST
+    - name: Descargar datos
       run: python fetch_data.py
 
-    - name: Generar el gráfico
-      run: python generate_chart.py
+    - name: Generar gráfico
+      run: python generate_chart.py  # Asegúrate que guarde el HTML en docs/
 
-    - name: Subir artefacto para GitHub Pages
+    - name: Subir artefacto para Pages
       uses: actions/upload-pages-artifact@v2
       with:
-        path: docs/  # Asegurar que el gráfico esté en esta carpeta
+        path: docs/  # ¡Esta carpeta debe contener tu index.html!
 
   deploy:
     needs: build
@@ -51,6 +50,6 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-    - name: Desplegar en GitHub Pages
+    - name: Desplegar
       uses: actions/deploy-pages@v2
       id: deployment
