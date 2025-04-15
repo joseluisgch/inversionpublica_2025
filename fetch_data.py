@@ -21,7 +21,7 @@ os.makedirs(DATA_FOLDER, exist_ok=True)
 
 def fetch_data():
     """Obtiene los datos del API de ArcGIS y los guarda en un archivo JSON"""
-    base_url = 'https://pportalgis.vivienda.gob.pe/pfdserver/rest/services/OGEI/Mapa_Inversiones_MEF/FeatureServer/2/query'
+    base_url = 'https://pportalgis.vivienda.gob.pe/pfdserver/rest/services/OGEI/Mapa_Inversiones_MEF/FeatureServer/13/query'
     
     params = {
         'where': "ano_eje = '2025'",
