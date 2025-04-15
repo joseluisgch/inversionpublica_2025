@@ -5,6 +5,10 @@ on:
     - cron: "0 */8 * * *"  # Ejecución cada 8 horas
   workflow_dispatch:
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 permissions:
   contents: write
   id-token: write
@@ -25,18 +29,19 @@ jobs:
 
     - name: Instalar dependencias
       run: |
+        pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Descargar datos
+    - name: Descargar datos desde el servicio REST
       run: python fetch_data.py
 
-    - name: Generar gráfico
+    - name: Generar el gráfico
       run: python generate_chart.py
 
     - name: Subir artefacto para GitHub Pages
       uses: actions/upload-pages-artifact@v2
       with:
-        path: docs/  # Asegúrate que tu gráfico esté en esta carpeta
+        path: docs/  # Asegurar que el gráfico esté en esta carpeta
 
   deploy:
     needs: build
