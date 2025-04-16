@@ -1,55 +1,47 @@
-name: Update Chart
+name: Actualizar datos y gráfico
 
 on:
   schedule:
-    - cron: "0 */8 * * *"  # Cada 8 horas
-  workflow_dispatch:
-
-concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
-
-permissions:
-  contents: write
-  id-token: write
-  pages: write
+    - cron: "0 */4 * * *"  # Cada 4 horas
+  workflow_dispatch:       # Permite ejecutarlo manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Clonar repositorio
-      uses: actions/checkout@v3
+      - name: Clonar el repositorio
+        uses: actions/checkout@v3
 
-    - name: Configurar Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: 3.9
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.9
 
-    - name: Instalar dependencias
-      run: |
-        pip install -r requirements.txt
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-    - name: Descargar datos
-      run: python fetch_data.py
+      - name: Ejecutar script para obtener datos
+        run: python fetch_data.py
 
-    - name: Generar gráfico
-      run: python generate_chart.py  # Asegúrate que guarde el HTML en docs/
+      - name: Generar gráfico
+        run: python generate_chart.py
 
-    - name: Subir artefacto para Pages
-      uses: actions/upload-pages-artifact@v2
-      with:
-        path: docs/  # ¡Esta carpeta debe contener tu index.html!
+      - name: Configurar Git
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
 
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      - name: Agregar cambios y hacer commit
+        run: |
+          git add data/inversiones_data.json docs/index.html
+          git commit -m "Actualización automática de datos y gráfico" || echo "Sin cambios para commitear"
 
-    steps:
-    - name: Desplegar
-      uses: actions/deploy-pages@v2
-      id: deployment
+      - name: Hacer pull con rebase y push
+        run: |
+          git pull --rebase origin main
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
